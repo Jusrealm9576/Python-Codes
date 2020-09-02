@@ -8,10 +8,6 @@
 ,,,
 
 
-
-
-
-
 def question():
 	print("\n\n \t1. Calculate the factorial of number N\n \
 	2. Display fibbonacci sequence (0 to N)\n \
