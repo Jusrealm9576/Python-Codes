@@ -1,12 +1,3 @@
-''' Write a menu driven program in python with following options: -
-1. Calculate Factorial of number N
-2. Display Fibonacci series (0 to N)
-3. Check whether the number is Armstrong or not
-4. Check whether the number is palindrome or not
-5. Display Table of number N
-6. Exit
-,,,
-
 
 def question():
 	print("\n\n \t1. Calculate the factorial of number N\n \
