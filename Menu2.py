@@ -1,11 +1,3 @@
-'''Write a menu driven program in python with following options: -
-1. Check whether the string is palindrome or not
-2. Calculate total characters in string
-3. Calculate total vowels in string
-4. Calculate total spaces in string
-5. Display sting in reverse order
-6. Exit
-'''
 
 
 def question():
