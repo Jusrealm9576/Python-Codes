@@ -1,5 +1,4 @@
 
-
 def question():
 	print("\n\t 1.Check wether string is pallindrome or not\n\
 	2. Calculate total characters of string\n\
